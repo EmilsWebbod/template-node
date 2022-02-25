@@ -21,6 +21,9 @@
   "devDependencies": {
     "@types/node": "^17.0.18",
     "@vitest/ui": "latest",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.3.4",
+    "prettier": "^2.5.1",
     "source-map-support": "latest",
     "ts-node": "latest",
     "typescript": "^4.5.5",
